@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MoveMate",
+    "slug": "movemate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "movemate",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.movemate.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.movemate.app"
+    }
+  }
+}
